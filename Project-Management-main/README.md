@@ -152,10 +152,10 @@ This project is developed for educational and learning purposes.
 
 ## 📬 Connect With Me
 
-**T S Sampath Srinivas**
+**gopalkrishnakodapu**
 
-- 🐙 GitHub: https://github.com/KanchumojuPavan/Project-Management/
-- 💼 LinkedIn: https://www.linkedin.com/in/kanchumojupavan34/
+- 🐙 GitHub: https://github.com/gopalkrishnakodapu-coder/Project-Management/
+- 💼 LinkedIn: https://www.linkedin.com/in/0826-kondapu-gopal-krishna/
 
 ---
 
